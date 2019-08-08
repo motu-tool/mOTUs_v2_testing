@@ -4,7 +4,7 @@
     "format_url": "http://biom-format.org",
     "type": "OTU table",
     "generated_by": "motus v2.5.0_test",
-    "date": "2019-08-07T17:05:00",
+    "date": "2019-08-08T15:10:00",
     "rows":[
             {"id":"ref_mOTU_v25_00001", "metadata":{"name":"Leptospira alexanderi",
                                        "NCBI_id":"100053"}},
