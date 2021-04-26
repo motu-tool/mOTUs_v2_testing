@@ -1,5 +1,5 @@
-# git tag version 2.6.0 |  motus version 2.6.0 | map_tax 2.6.0 | gene database: nr2.6.0 | calc_mgc 2.6.0 -y insert.scaled_counts -l 75 | calc_motu 2.6.0 -k mOTU -C no_CAMI -g 3 | taxonomy: ref_mOTU_2.6.0 meta_mOTU_2.6.0
-# call: python /g/scb2/zeller/milanese/software/mOTUs_v2/motus profile -f ERR878216_sample_1.fastq.gz -r ERR878216_sample_2.fastq.gz -o ERR878216_both.profile
+# git tag version 2.6.1 |  motus version 2.6.1 | map_tax 2.6.1 | gene database: nr2.6.1 | calc_mgc 2.6.1 -y insert.scaled_counts -l 75 | calc_motu 2.6.1 -k mOTU -C no_CAMI -g 3 | taxonomy: ref_mOTU_2.6.1 meta_mOTU_2.6.1
+# call: python /g/scb2/zeller/milanese/motus_v2/update_DB/mOTUs/motus profile -f ERR878216_sample_1.fastq.gz -r ERR878216_sample_2.fastq.gz -o ERR878216_both.profile
 #consensus_taxonomy	unnamed sample
 Leptospira alexanderi [ref_mOTU_v25_00001]	0.0000000000
 Leptospira weilii [ref_mOTU_v25_00002]	0.0000000000
@@ -76,17 +76,17 @@ Leclercia adecarboxylata [ref_mOTU_v25_00073]	0.0000000000
 Enterobacter cloacae [ref_mOTU_v25_00074]	0.0000000000
 Enterobacter asburiae/soli [ref_mOTU_v25_00075]	0.0000000000
 Enterobacter cancerogenus [ref_mOTU_v25_00076]	0.0000000000
-Bacteria sp. [ref_mOTU_v25_00077]	0.0000000000
+Enterobacter sp. [ref_mOTU_v25_00077]	0.0000000000
 Enterobacter timonensis [ref_mOTU_v25_00078]	0.0000000000
 Lelliottia amnigena [ref_mOTU_v25_00079]	0.0000000000
 Pluralibacter gergoviae [ref_mOTU_v25_00080]	0.0000000000
 Yokenella regensburgei [ref_mOTU_v25_00081]	0.0000000000
 Trabulsiella guamensis/odontotermitis [ref_mOTU_v25_00082]	0.0000000000
 [Enterobacter] lignolyticus [ref_mOTU_v25_00083]	0.0000000000
-Enterobacteriaceae sp. [ref_mOTU_v25_00084]	0.0000000000
-Enterobacterales sp. [ref_mOTU_v25_00085]	0.0000000000
+Klebsiella aerogenes [ref_mOTU_v25_00084]	0.0000000000
+Klebsiella pneumoniae [ref_mOTU_v25_00085]	0.0000000000
 Klebsiella michiganensis/oxytoca [ref_mOTU_v25_00086]	0.0000000000
-Enterobacteriaceae sp. [ref_mOTU_v25_00087]	0.0000000000
+Raoultella sp. [ref_mOTU_v25_00087]	0.0000000000
 Raoultella ornithinolytica/terrigena [ref_mOTU_v25_00088]	0.0000000000
 Metakosakonia massiliensis [ref_mOTU_v25_00089]	0.0000000000
 Kluyvera ascorbata/georgiana [ref_mOTU_v25_00090]	0.0000000000
@@ -94,15 +94,15 @@ Kluyvera ascorbata [ref_mOTU_v25_00091]	0.0000000000
 Kluyvera cryocrescens [ref_mOTU_v25_00092]	0.0000000000
 Kluyvera intermedia [ref_mOTU_v25_00093]	0.0000000000
 Enterobacteriaceae bacterium strain FGI 57 [ref_mOTU_v25_00094]	0.0000000000
-Proteobacteria sp. [ref_mOTU_v25_00095]	0.0000000000
-Enterobacteriaceae sp. [ref_mOTU_v25_00096]	0.0000000000
+Escherichia coli [ref_mOTU_v25_00095]	0.0000000000
+Citrobacter sp. [ref_mOTU_v25_00096]	0.0000000000
 Citrobacter sp. MGH106 [ref_mOTU_v25_00097]	0.0000000000
 Salmonella bongori [ref_mOTU_v25_00098]	0.0000000000
 Salmonella enterica/bongori [ref_mOTU_v25_00099]	0.0000000000
 Citrobacter rodentium [ref_mOTU_v25_00100]	0.0000000000
 Citrobacter sedlakii [ref_mOTU_v25_00101]	0.0000000000
 Citrobacter koseri [ref_mOTU_v25_00102]	0.0000000000
-Gammaproteobacteria sp. [ref_mOTU_v25_00103]	0.0000000000
+Citrobacter sp. [ref_mOTU_v25_00103]	0.0000000000
 Klebsiella sp. RIT-PI-d [ref_mOTU_v25_00104]	0.0000000000
 Prochlorothrix hollandica [ref_mOTU_v25_00105]	0.0000000000
 Pseudomonas fluorescens/lundensis [ref_mOTU_v25_00106]	0.0000000000
@@ -132,7 +132,7 @@ Pseudomonas sp. [ref_mOTU_v25_00129]	0.0000000000
 Pseudomonas marginalis [ref_mOTU_v25_00130]	0.0000000000
 Pseudomonas sp. [ref_mOTU_v25_00131]	0.0000000000
 Pseudomonas fluorescens [ref_mOTU_v25_00132]	0.0000000000
-Proteobacteria sp. [ref_mOTU_v25_00133]	0.0000000000
+Pseudomonas sp. [ref_mOTU_v25_00133]	0.0000000000
 Pseudomonas sp. RIT357 [ref_mOTU_v25_00134]	0.0000000000
 Pseudomonas sp. [ref_mOTU_v25_00135]	0.0000000000
 Pseudomonas sp. BIOMIG1N [ref_mOTU_v25_00136]	0.0000000000
@@ -186,7 +186,7 @@ Pseudomonas parafulva [ref_mOTU_v25_00184]	0.0000000000
 Pseudomonas capeferrum [ref_mOTU_v25_00185]	0.0000000000
 Pseudomonas putida [ref_mOTU_v25_00186]	0.0000000000
 Pseudomonas sp. [ref_mOTU_v25_00187]	0.0000000000
-Gammaproteobacteria sp. [ref_mOTU_v25_00188]	0.0000000000
+Pseudomonas sp. [ref_mOTU_v25_00188]	0.0000000000
 Pseudomonas sp. Leaf58 [ref_mOTU_v25_00189]	0.0000000000
 Pseudomonas plecoglossicida [ref_mOTU_v25_00190]	0.0000000000
 Pseudomonas putida [ref_mOTU_v25_00191]	0.0000000000
@@ -257,9 +257,9 @@ Weissella cibaria [ref_mOTU_v25_00255]	0.0000000000
 Synechocystis sp. PCC 6803 [ref_mOTU_v25_00256]	0.0000000000
 Synechocystis sp. PCC 6714 [ref_mOTU_v25_00257]	0.0000000000
 Acinetobacter tandoii [ref_mOTU_v25_00258]	0.0000000000
-Bacteria sp. [ref_mOTU_v25_00259]	0.0000000000
+Acinetobacter baumannii [ref_mOTU_v25_00259]	0.0000000000
 Acinetobacter sp. [ref_mOTU_v25_00260]	0.0000000000
-Gammaproteobacteria sp. [ref_mOTU_v25_00261]	0.0000000000
+Acinetobacter pittii [ref_mOTU_v25_00261]	0.0000000000
 Acinetobacter oleivorans/calcoaceticus [ref_mOTU_v25_00262]	0.0000000000
 Acinetobacter parvus [ref_mOTU_v25_00263]	0.0000000000
 Acinetobacter haemolyticus [ref_mOTU_v25_00264]	0.0000000000
@@ -276,10 +276,10 @@ Acinetobacter tjernbergiae [ref_mOTU_v25_00274]	0.0000000000
 Acinetobacter beijerinckii [ref_mOTU_v25_00275]	0.0000000000
 Peptoniphilus lacrimalis [ref_mOTU_v25_00276]	0.0000000000
 Bacillaceae sp. [ref_mOTU_v25_00277]	0.0000000000
-Bacteria sp. [ref_mOTU_v25_00278]	0.0000000000
+Bacillus subtilis [ref_mOTU_v25_00278]	0.0000000000
 Bacillus sp. MSP13 [ref_mOTU_v25_00279]	0.0000000000
 Bacillus nakamurai [ref_mOTU_v25_00280]	0.0000000000
-Bacillales sp. [ref_mOTU_v25_00281]	0.0000000000
+Bacillus sp. [ref_mOTU_v25_00281]	0.0000000000
 Streptococcus sp. [ref_mOTU_v25_00282]	0.0000000000
 Streptococcus sp. [ref_mOTU_v25_00283]	0.0000000000
 Streptococcus pseudopneumoniae [ref_mOTU_v25_00284]	0.0000000000
@@ -316,10 +316,10 @@ Streptococcus equi [ref_mOTU_v25_00314]	0.0000000000
 Streptococcus pyogenes [ref_mOTU_v25_00315]	0.0000000000
 Streptococcus dysgalactiae [ref_mOTU_v25_00316]	0.0000000000
 Streptococcus canis [ref_mOTU_v25_00317]	0.0000000000
-Bacteria sp. [ref_mOTU_v25_00318]	0.0000000000
+Enterococcus faecalis [ref_mOTU_v25_00318]	0.0000000000
 Enterococcus mundtii/pernyi [ref_mOTU_v25_00319]	0.0000000000
 Enterococcus sp. 10A9_DIV0425 [ref_mOTU_v25_00320]	0.0000000000
-Bacteria sp. [ref_mOTU_v25_00321]	0.0000000000
+Enterococcus faecium [ref_mOTU_v25_00321]	0.0000000000
 Enterococcus faecium [ref_mOTU_v25_00322]	0.0000000000
 Enterococcus faecium/durans [ref_mOTU_v25_00323]	0.0000000000
 Enterococcus faecium/hirae [ref_mOTU_v25_00324]	0.0000000000
@@ -327,7 +327,7 @@ Enterococcus villorum [ref_mOTU_v25_00325]	0.0000000000
 Bacillus sp. [ref_mOTU_v25_00326]	0.0000000000
 Bacillus cytotoxicus [ref_mOTU_v25_00327]	0.0000000000
 Bacillus sp. [ref_mOTU_v25_00328]	0.0000000000
-Bacilli sp. [ref_mOTU_v25_00329]	0.0000000000
+Bacillus sp. [ref_mOTU_v25_00329]	0.0000000000
 Bacillus mycoides [ref_mOTU_v25_00330]	0.0000000000
 Bacillus sp. [ref_mOTU_v25_00331]	0.0000000000
 Bacillus bingmayongensis [ref_mOTU_v25_00332]	0.0000000000
@@ -342,7 +342,7 @@ Staphylococcus aureus [ref_mOTU_v25_00340]	0.0000000000
 Staphylococcus sp. [ref_mOTU_v25_00341]	0.0000000000
 Staphylococcus aureus/haemolyticus [ref_mOTU_v25_00342]	0.0000000000
 Staphylococcus aureus/haemolyticus [ref_mOTU_v25_00343]	0.0000000000
-Bacilli sp. [ref_mOTU_v25_00344]	0.0000000000
+Staphylococcus sp. [ref_mOTU_v25_00344]	0.0000000000
 Staphylococcus epidermidis [ref_mOTU_v25_00346]	0.0000000000
 Staphylococcus warneri/caprae [ref_mOTU_v25_00347]	0.0000000000
 Staphylococcus warneri/capitis [ref_mOTU_v25_00348]	0.0000000000
@@ -350,7 +350,7 @@ Dermabacter hominis [ref_mOTU_v25_00349]	0.0000000000
 Dermabacter vaginalis [ref_mOTU_v25_00350]	0.0000000000
 Helcobacillus massiliensis [ref_mOTU_v25_00351]	0.0000000000
 Mycobacteroides immunogenum [ref_mOTU_v25_00352]	0.0000000000
-Mycobacteriaceae sp. [ref_mOTU_v25_00353]	0.0000000000
+Mycobacteroides abscessus [ref_mOTU_v25_00353]	0.0000000000
 Mycobacteroides franklinii [ref_mOTU_v25_00354]	0.0000000000
 Mycobacteroides saopaulense [ref_mOTU_v25_00355]	0.0000000000
 Mycobacteroides chelonae [ref_mOTU_v25_00356]	0.0000000000
@@ -542,7 +542,7 @@ Achromobacter piechaudii [ref_mOTU_v25_00543]	0.0000000000
 Achromobacter xylosoxidans [ref_mOTU_v25_00544]	0.0000000000
 Achromobacter arsenitoxydans [ref_mOTU_v25_00545]	0.0000000000
 Achromobacter sp. Root83 [ref_mOTU_v25_00546]	0.0000000000
-Alcaligenaceae sp. [ref_mOTU_v25_00547]	0.0000000000
+Achromobacter sp. [ref_mOTU_v25_00547]	0.0000000000
 Achromobacter sp. DH1f [ref_mOTU_v25_00548]	0.0000000000
 Achromobacter denitrificans [ref_mOTU_v25_00549]	0.0000000000
 Achromobacter insolitus/xylosoxidans [ref_mOTU_v25_00550]	0.0000000000
@@ -605,14 +605,14 @@ Streptomyces pactum [ref_mOTU_v25_00607]	0.0000000000
 Streptomyces parvulus [ref_mOTU_v25_00608]	0.0000000000
 Streptomyces olivaceus/pactum [ref_mOTU_v25_00609]	0.0000000000
 Streptomyces sp. [ref_mOTU_v25_00610]	0.0000000000
-Streptomycetaceae sp. [ref_mOTU_v25_00611]	0.0000000000
+Streptomyces sp. [ref_mOTU_v25_00611]	0.0000000000
 Streptomyces prasinopilosus [ref_mOTU_v25_00612]	0.0000000000
 Streptomyces viridosporus [ref_mOTU_v25_00613]	0.0000000000
 Streptomyces caelestis [ref_mOTU_v25_00614]	0.0000000000
 Streptomyces toyocaensis [ref_mOTU_v25_00615]	0.0000000000
 Streptomyces griseoflavus [ref_mOTU_v25_00616]	0.0000000000
 Streptomyces sp. NRRL WC-3626 [ref_mOTU_v25_00617]	0.0000000000
-Actinobacteria sp. [ref_mOTU_v25_00618]	0.0000000000
+Streptomyces sp. [ref_mOTU_v25_00618]	0.0000000000
 Streptomyces speibonae [ref_mOTU_v25_00619]	0.0000000000
 Streptomyces sp. TP-A0356 [ref_mOTU_v25_00620]	0.0000000000
 Streptomyces sp. MUSC 93 [ref_mOTU_v25_00621]	0.0000000000
@@ -703,7 +703,7 @@ Leisingera daeponensis [ref_mOTU_v25_00705]	0.0000000000
 Leisingera aquaemixtae [ref_mOTU_v25_00706]	0.0000000000
 Leisingera caerulea [ref_mOTU_v25_00707]	0.0000000000
 Hafnia paralvei/alvei [ref_mOTU_v25_00708]	0.0000000000
-Hafniaceae sp. [ref_mOTU_v25_00709]	0.0000000000
+Hafnia alvei [ref_mOTU_v25_00709]	0.0000000000
 Lactobacillus rhamnosus [ref_mOTU_v25_00710]	0.0000000000
 Listeria monocytogenes/innocua [ref_mOTU_v25_00711]	0.0000000000
 Listeria monocytogenes [ref_mOTU_v25_00712]	0.0000000000
@@ -824,7 +824,7 @@ Komagataeibacter sp. [ref_mOTU_v25_00826]	0.0000000000
 Komagataeibacter europaeus [ref_mOTU_v25_00827]	0.0000000000
 Komagataeibacter xylinus [ref_mOTU_v25_00828]	0.0000000000
 Serratia symbiotica [ref_mOTU_v25_00829]	0.0000000000
-Enterobacterales sp. [ref_mOTU_v25_00830]	0.0000000000
+Serratia marcescens [ref_mOTU_v25_00830]	0.0000000000
 Serratia ficaria [ref_mOTU_v25_00831]	0.0000000000
 Serratia plymuthica [ref_mOTU_v25_00832]	0.0000000000
 Serratia liquefaciens [ref_mOTU_v25_00833]	0.0000000000
@@ -957,7 +957,7 @@ Arthrobacter luteolus [ref_mOTU_v25_00960]	0.0000000000
 Arthrobacter saudimassiliensis [ref_mOTU_v25_00961]	0.0000000000
 Arthrobacter sp. RIT-PI-e [ref_mOTU_v25_00962]	0.0000000000
 Micrococcus lylae [ref_mOTU_v25_00963]	0.0000000000
-Bacteria sp. [ref_mOTU_v25_00964]	0.0000000000
+Micrococcus sp. [ref_mOTU_v25_00964]	0.0000000000
 Micrococcus luteus [ref_mOTU_v25_00965]	0.0000000000
 Citricoccus sp. CH26A [ref_mOTU_v25_00966]	0.0000000000
 Micrococcus terreus [ref_mOTU_v25_00967]	0.0000000000
@@ -1126,7 +1126,7 @@ Methylobacterium brachiatum [ref_mOTU_v25_01131]	0.0000000000
 Methylobacterium pseudosasicola [ref_mOTU_v25_01132]	0.0000000000
 Methylobacterium sp. GXS13 [ref_mOTU_v25_01133]	0.0000000000
 Methylobacterium oryzae/phyllosphaerae [ref_mOTU_v25_01134]	0.0000000000
-Bacteria sp. [ref_mOTU_v25_01135]	0.0000000000
+Methylobacterium sp. [ref_mOTU_v25_01135]	0.0000000000
 Methylobacterium sp. UNC378MF [ref_mOTU_v25_01136]	0.0000000000
 Methylobacterium mesophilicum [ref_mOTU_v25_01137]	0.0000000000
 Methylobacterium phyllostachyos [ref_mOTU_v25_01138]	0.0000000000
@@ -1439,7 +1439,7 @@ Streptomyces somaliensis [ref_mOTU_v25_01448]	0.0000000000
 Streptomyces kanasensis [ref_mOTU_v25_01449]	0.0000000000
 Streptomyces sp. CC53 [ref_mOTU_v25_01450]	0.0000000000
 Streptomyces sp. [ref_mOTU_v25_01451]	0.0000000000
-Streptomycetaceae sp. [ref_mOTU_v25_01452]	0.0000000000
+Streptomyces sp. [ref_mOTU_v25_01452]	0.0000000000
 Streptomyces griseolus/halstedii [ref_mOTU_v25_01453]	0.0000000000
 Streptomyces sp. [ref_mOTU_v25_01454]	0.0000000000
 Streptomyces sp. [ref_mOTU_v25_01455]	0.0000000000
@@ -1527,7 +1527,7 @@ Neisseria polysaccharea [ref_mOTU_v25_01537]	0.0000000000
 Neisseria gonorrhoeae [ref_mOTU_v25_01538]	0.0000000000
 Neisseria meningitidis [ref_mOTU_v25_01539]	0.0000000000
 Alcaligenes faecalis [ref_mOTU_v25_01540]	0.0000000000
-Alcaligenaceae sp. [ref_mOTU_v25_01541]	0.0000000000
+Alcaligenes faecalis [ref_mOTU_v25_01541]	0.0000000000
 Bdellovibrio bacteriovorus [ref_mOTU_v25_01542]	0.0000000000
 Bdellovibrio bacteriovorus [ref_mOTU_v25_01543]	0.0000000000
 Pedobacter kyungheensis/soli [ref_mOTU_v25_01544]	0.0000000000
@@ -1772,7 +1772,7 @@ Acinetobacter sp. HR7 [ref_mOTU_v25_01782]	0.0000000000
 Stenotrophomonas maltophilia [ref_mOTU_v25_01783]	0.0000000000
 Stenotrophomonas maltophilia [ref_mOTU_v25_01784]	0.0000000000
 Stenotrophomonas maltophilia [ref_mOTU_v25_01785]	0.0000000000
-Stenotrophomonas sp. [ref_mOTU_v25_01786]	0.0000000000
+Stenotrophomonas maltophilia [ref_mOTU_v25_01786]	0.0000000000
 Stenotrophomonas maltophilia [ref_mOTU_v25_01787]	0.0000000000
 Stenotrophomonas maltophilia [ref_mOTU_v25_01788]	0.0000000000
 Sphingomonas sp. [ref_mOTU_v25_01789]	0.0000000000
@@ -1882,7 +1882,7 @@ Streptomyces lydicus [ref_mOTU_v25_01893]	0.0000000000
 Streptomyces sp. NBRC 110611 [ref_mOTU_v25_01894]	0.0000000000
 Streptomyces catenulae [ref_mOTU_v25_01895]	0.0000000000
 Streptomyces celluloflavus [ref_mOTU_v25_01896]	0.0000000000
-Streptomycetaceae sp. [ref_mOTU_v25_01897]	0.0000000000
+Streptomyces sp. [ref_mOTU_v25_01897]	0.0000000000
 Streptomyces monomycini [ref_mOTU_v25_01898]	0.0000000000
 Streptomyces ochraceiscleroticus/violens [ref_mOTU_v25_01899]	0.0000000000
 Streptomyces sclerotialus [ref_mOTU_v25_01900]	0.0000000000
@@ -2089,7 +2089,7 @@ Actinomycetaceae sp. [ref_mOTU_v25_02100]	0.0000000000
 Actinomyces neuii [ref_mOTU_v25_02101]	0.0000000000
 Actinoplanes globisporus [ref_mOTU_v25_02102]	0.0000000000
 Actinoplanes subtropicus [ref_mOTU_v25_02103]	0.0000000000
-Bacteria sp. [ref_mOTU_v25_02104]	0.0000000000
+Aerococcus sp. [ref_mOTU_v25_02104]	0.0000000000
 Agrococcus pavilionensis/lahaulensis [ref_mOTU_v25_02105]	0.0000000000
 Agromyces cerinus [ref_mOTU_v25_02106]	0.0000000000
 Agromyces sp. Root81 [ref_mOTU_v25_02107]	0.0000000000
@@ -2570,7 +2570,7 @@ Hyphomicrobium sp. GJ21 [ref_mOTU_v25_02586]	0.0000000000
 Hyphomicrobium denitrificans [ref_mOTU_v25_02587]	0.0000000000
 Pseudomonas sagittaria/linyingensis [ref_mOTU_v25_02588]	0.0000000000
 Pseudomonas guangdongensis [ref_mOTU_v25_02589]	0.0000000000
-Bacillaceae sp. [ref_mOTU_v25_02590]	0.0000000000
+Parageobacillus thermoglucosidasius [ref_mOTU_v25_02590]	0.0000000000
 Parageobacillus thermoglucosidasius [ref_mOTU_v25_02591]	0.0000000000
 Parageobacillus thermantarcticus [ref_mOTU_v25_02592]	0.0000000000
 Streptomyces sp. [ref_mOTU_v25_02593]	0.0000000000
@@ -2778,7 +2778,7 @@ Prevotella sp. C561 [ref_mOTU_v25_02797]	0.0000000000
 Thermosipho africanus [ref_mOTU_v25_02798]	0.0000000000
 Corynebacterium diphtheriae [ref_mOTU_v25_02799]	0.0000000000
 Staphylococcus pasteuri [ref_mOTU_v25_02800]	0.0000000000
-Bacilli sp. [ref_mOTU_v25_02801]	0.0000000000
+Staphylococcus warneri [ref_mOTU_v25_02801]	0.0000000000
 Francisella philomiragia [ref_mOTU_v25_02802]	0.0000000000
 Francisella philomiragia/noatunensis [ref_mOTU_v25_02803]	0.0000000000
 Rhodanobacter spathiphylli [ref_mOTU_v25_02804]	0.0000000000

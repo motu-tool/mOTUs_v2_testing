@@ -1,4 +1,4 @@
-# map_tax 2.6.0 | gene database: nr2.6.0 | 101 | calc_mgc 2.6.0 -y insert.scaled_counts -l 75
+# map_tax 2.6.1 | gene database: nr2.6.1 | 101 | calc_mgc 2.6.1 -y insert.scaled_counts -l 75
 unnamed sample
 COG0012.ext_mOTU_v26_000826	1.4288522077
 COG0012.mOTU.v2.0002014	0.6518022465
